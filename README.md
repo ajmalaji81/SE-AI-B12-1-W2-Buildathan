@@ -1,6 +1,6 @@
-================================================================================
+
 TN AGRIBOT - TAMIL NADU AGRICULTURE SCHEMES & GUIDELINES ASSISTANT
-================================================================================
+==================================================================
 
 1. OVERVIEW
 --------------------------------------------------------------------------------
@@ -112,18 +112,19 @@ Step 4: Interact with TN AgriBOT
 
 8. REQUIREMENTS (SAMPLE requirements.txt)
 --------------------------------------------------------------------------------
-streamlit>=1.30.0
-fastapi>=0.109.0
-uvicorn>=0.27.0
-pydantic>=2.0.0
-requests>=2.31.0
-playwright>=1.40.0
-python-dotenv>=1.0.0
-langchain>=0.2.0
-langchain-community>=0.2.0
-langchain-core>=0.2.0
-langchain-openai>=0.1.0
-langchain-chroma>=0.1.0
-chromadb>=0.4.22
-pypdf>=4.0.0
+- streamlit>=1.30.0
+- fastapi>=0.109.0
+- uvicorn>=0.27.0
+- pydantic>=2.0.0
+- requests>=2.31.0
+- playwright>=1.40.0
+- python-dotenv>=1.0.0
+- langchain>=0.2.0
+- langchain-community>=0.2.0
+- langchain-core>=0.2.0
+- langchain-openai>=0.1.0
+- langchain-chroma>=0.1.0
+- chromadb>=0.4.22
+- pypdf>=4.0.0
+  
 ================================================================================
